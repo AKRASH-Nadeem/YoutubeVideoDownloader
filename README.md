@@ -12,6 +12,7 @@ This is a **YouTube Video Downloader** built using **Flask** and **yt-dlp**, des
 ## Requirements
 
 To run the project, make sure you have the following installed:
+- FFmpeg
 - Python 3.8 or higher
 - pip (Python package manager)
 
